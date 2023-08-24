@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Crypto Price Tracker</string>
+    <string name="tab1">All Coins</string>
+    <string name="tab2">Watch List</string>
+    <string name="Search">Search Crypto</string>
+    <string name="tab3">Add to Watch List\n</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
