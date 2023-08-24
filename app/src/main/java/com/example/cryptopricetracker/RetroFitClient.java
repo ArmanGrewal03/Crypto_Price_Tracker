@@ -9,7 +9,7 @@ import retrofit2.Retrofit;
 public class RetroFitClient {
     private static Retrofit retrofit;
     private static final String Link = "https://pro-api.coinmarketcap.com/";
-    private static final String Key = "c7b2adf6-0222-4dfc-8959-d225176a1b2a";
+    private static final String Key = "insert_key";
 
     public static Retrofit getRetrofitInstance(){
         if (retrofit == null) {
